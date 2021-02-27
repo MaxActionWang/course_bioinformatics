@@ -4,4 +4,4 @@ This **readme** file is the first assignment, in which [Markdown syntax](https:/
 
 ***
 > I am MaxW
-> ![alt text](https:// "MaxW")
+> ![alt text](https://github.com/MaxActionWang/course_bioinformatics/blob/main/RnM.jpg "MaxW")
