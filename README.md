@@ -3,5 +3,4 @@ This repo [course_bioinformatics](https://github.com/MaxActionWang/course_bioinf
 This **readme** file is the first assignment, in which [Markdown syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Markdown refernce") is applied.
 
 ***
-> I am MaxW
-> ![alt text](https://github.com/MaxActionWang/course_bioinformatics/blob/main/RnM.jpg "MaxW")
+> I am MaxW ![MaxW-w100](https://github.com/MaxActionWang/course_bioinformatics/blob/main/RnM.jpg)
